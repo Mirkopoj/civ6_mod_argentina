@@ -2,7 +2,41 @@
 <GameData>
 	<Players>
 		<Row>
+			<Domain>Players:StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_LEU_ARGENTINA</CivilizationType>
+			<LeaderType>LEADER_LEU_ROCA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_LEU_ARGENTINA_NAME</CivilizationName>
+			<CivilizationIcon>ICON_LEADER_LEU_ROCA_CIV</CivilizationIcon>
+			<LeaderName>LOC_LEADER_LEU_ROCA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_LEU_ROCA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_LEU_ARGENTINA_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_LEU_ARGENTINA_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_LEADER_LEU_ROCA_CIV</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LEADER_LEU_ROCA_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LEADER_LEU_ROCA_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_LEU_ROCA</LeaderAbilityIcon>
+			<Portrait>LEADER_LEU_ROCA</Portrait>
+			<PortraitBackground>LEADER_DEFAULT_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
 			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_LEU_ARGENTINA</CivilizationType>
+			<LeaderType>LEADER_LEU_ROCA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_LEU_ARGENTINA_NAME</CivilizationName>
+			<CivilizationIcon>ICON_LEADER_LEU_ROCA_CIV</CivilizationIcon>
+			<LeaderName>LOC_LEADER_LEU_ROCA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_LEU_ROCA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_LEU_ARGENTINA_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_LEU_ARGENTINA_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_LEADER_LEU_ROCA_CIV</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LEADER_LEU_ROCA_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LEADER_LEU_ROCA_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_LEU_ROCA</LeaderAbilityIcon>
+			<Portrait>LEADER_LEU_ROCA</Portrait>
+			<PortraitBackground>LEADER_DEFAULT_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
 			<CivilizationType>CIVILIZATION_LEU_ARGENTINA</CivilizationType>
 			<LeaderType>LEADER_LEU_ROCA</LeaderType>
 			<CivilizationName>LOC_CIVILIZATION_LEU_ARGENTINA_NAME</CivilizationName>

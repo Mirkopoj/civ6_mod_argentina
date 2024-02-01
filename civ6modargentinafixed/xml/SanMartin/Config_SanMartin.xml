@@ -2,7 +2,41 @@
 <GameData>
 	<Players>
 		<Row>
+			<Domain>Players:StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_LEU_ARGENTINA</CivilizationType>
+			<LeaderType>LEADER_LEU_SANMARTIN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_LEU_ARGENTINA_NAME</CivilizationName>
+			<CivilizationIcon>ICON_LEADER_LEU_SANMARTIN_CIV</CivilizationIcon>
+			<LeaderName>LOC_LEADER_LEU_SANMARTIN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_LEU_SANMARTIN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_LEU_ARGENTINA_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_LEU_ARGENTINA_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_LEADER_LEU_SANMARTIN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LEADER_LEU_SANMARTIN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LEADER_LEU_SANMARTIN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_LEU_SANMARTIN</LeaderAbilityIcon>
+			<Portrait>LEADER_LEU_SANMARTIN</Portrait>
+			<PortraitBackground>LEADER_HOJO_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
 			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_LEU_ARGENTINA</CivilizationType>
+			<LeaderType>LEADER_LEU_SANMARTIN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_LEU_ARGENTINA_NAME</CivilizationName>
+			<CivilizationIcon>ICON_LEADER_LEU_SANMARTIN_CIV</CivilizationIcon>
+			<LeaderName>LOC_LEADER_LEU_SANMARTIN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_LEU_SANMARTIN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_LEU_ARGENTINA_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_LEU_ARGENTINA_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_LEADER_LEU_SANMARTIN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LEADER_LEU_SANMARTIN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LEADER_LEU_SANMARTIN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_LEU_SANMARTIN</LeaderAbilityIcon>
+			<Portrait>LEADER_LEU_SANMARTIN</Portrait>
+			<PortraitBackground>LEADER_HOJO_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
 			<CivilizationType>CIVILIZATION_LEU_ARGENTINA</CivilizationType>
 			<LeaderType>LEADER_LEU_SANMARTIN</LeaderType>
 			<CivilizationName>LOC_CIVILIZATION_LEU_ARGENTINA_NAME</CivilizationName>
